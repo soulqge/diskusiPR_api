@@ -1,0 +1,70 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "diskusiPrContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "diskusiPR",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[dbo].[jawaban]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[jenjang_pendidikan]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[mata_pelajaran]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[soal]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[soal_jawaban]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[sub_mata_pelajaran]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[user]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
